@@ -42,33 +42,33 @@ I am a **full stack data analyst and algorithmic trading developer** working acr
 ### Featured Portfolio Repositories
 
 #### Applied Econometrics & Macroeconomic Analyses
--  [**loadshedding-economic-growth-sa**](https://github.com/kevinmonama012/loadshedding-economic-growth-sa) â€” Econometric study evaluating Eskom load-shedding stages on South African GDP growth.
--  [**sa-fuel-price-vs-usdzar-regression**](https://github.com/kevinmonama012/sa-fuel-price-vs-usdzar-regression) â€” Econometric regression modeling the relationship between SA fuel prices and the USD/ZAR rate.
--  [**south-africa-cpi-price-index-analysis**](https://github.com/kevinmonama012/south-africa-cpi-price-index-analysis) â€” Time series CPI and inflation index modeling (2015â€“2024).
--  [**sa-real-gdp-deflating-analysis**](https://github.com/kevinmonama012/sa-real-gdp-deflating-analysis) â€” Deflating nominal GDP with CPI series to evaluate real South African economic growth.
--  [**one-way-anova-sa-car-sales**](https://github.com/kevinmonama012/one-way-anova-sa-car-sales) â€” One-Way ANOVA hypothesis testing in SQL and Excel on 2024 SA vehicle sales.
--  [**probability-concepts-sa-elections-2024**](https://github.com/kevinmonama012/probability-concepts-sa-elections-2024) â€” Applied business probability and cross-tabulation modeling on official 2024 SA election data.
+-  [**loadshedding-economic-growth-sa**](https://github.com/kevinmonama012/loadshedding-economic-growth-sa) Econometric study evaluating Eskom load-shedding stages on South African GDP growth.
+-  [**sa-fuel-price-vs-usdzar-regression**](https://github.com/kevinmonama012/sa-fuel-price-vs-usdzar-regression) Econometric regression modeling the relationship between SA fuel prices and the USD/ZAR rate.
+-  [**south-africa-cpi-price-index-analysis**](https://github.com/kevinmonama012/south-africa-cpi-price-index-analysis) Time series CPI and inflation index modeling (2015â€“2024).
+-  [**sa-real-gdp-deflating-analysis**](https://github.com/kevinmonama012/sa-real-gdp-deflating-analysis) Deflating nominal GDP with CPI series to evaluate real South African economic growth.
+-  [**one-way-anova-sa-car-sales**](https://github.com/kevinmonama012/one-way-anova-sa-car-sales) One-Way ANOVA hypothesis testing in SQL and Excel on 2024 SA vehicle sales.
+-  [**probability-concepts-sa-elections-2024**](https://github.com/kevinmonama012/probability-concepts-sa-elections-2024) Applied business probability and cross-tabulation modeling on official 2024 SA election data.
 
 #### Algorithmic Trading Systems (MQL5 / MetaTrader 5)
--  [**divergence-confluence-ea**](https://github.com/kevinmonama012/divergence-confluence-ea) â€” Multi-oscillator RSI & MACD divergence confluence Expert Advisor.
--  [**karattrend-divergence-ea**](https://github.com/kevinmonama012/karattrend-divergence-ea) â€” Trend-following divergence trading engine with volatility filters.
--  [**sunrisescalper-divergence-ea**](https://github.com/kevinmonama012/sunrisescalper-divergence-ea) â€” High-probability Asian session breakout and scalping system.
--  [**vaultkeeper-divergence-ea**](https://github.com/kevinmonama012/vaultkeeper-divergence-ea) â€” Capital-preservation institutional divergence trading system and risk manager.
+-  [**divergence-confluence-ea**](https://github.com/kevinmonama012/divergence-confluence-ea) Multi-oscillator RSI & MACD divergence confluence Expert Advisor.
+-  [**karattrend-divergence-ea**](https://github.com/kevinmonama012/karattrend-divergence-ea) Trend-following divergence trading engine with volatility filters.
+-  [**sunrisescalper-divergence-ea**](https://github.com/kevinmonama012/sunrisescalper-divergence-ea) High-probability Asian session breakout and scalping system.
+-  [**vaultkeeper-divergence-ea**](https://github.com/kevinmonama012/vaultkeeper-divergence-ea) Capital-preservation institutional divergence trading system and risk manager.
 
 #### Business Intelligence & Platform Engineering
--  [**prime-bytes-business-hub**](https://github.com/kevinmonama012/prime-bytes-business-hub) â€” Offline-first fast food management, POS, and margin intelligence platform.
--  [**prime-bytes-executive-dashboard**](https://github.com/kevinmonama012/prime-bytes-executive-dashboard) â€” Executive KPI sales and profit dashboard with Excel models and SQL queries.
--  [**picknread-platform-analytics**](https://github.com/kevinmonama012/picknread-platform-analytics) â€” Digital reading platform unit economics, MySQL schema, and Power BI dashboards.
--  [**gedion-freight-intelligence**](https://github.com/kevinmonama012/gedion-freight-intelligence) â€” Freight logistics intelligence platform with Python ETL, SQLite, and DAX.
--  [**kitchen-profit-sa**](https://github.com/kevinmonama012/kitchen-profit-sa) â€” Commercial food service recipe costing and margin calculator.
--  [**ford-furgasin-marketing-analytics**](https://github.com/kevinmonama012/ford-furgasin-marketing-analytics) â€” Multi-channel marketing campaign engagement analysis with Power BI (.pbix) and Python.
--  [**mood-flow-marketing-analytics**](https://github.com/kevinmonama012/mood-flow-marketing-analytics) â€” Customer sentiment marketing performance analytics with Power BI models.
+-  [**prime-bytes-business-hub**](https://github.com/kevinmonama012/prime-bytes-business-hub) Offline-first fast food management, POS, and margin intelligence platform.
+-  [**prime-bytes-executive-dashboard**](https://github.com/kevinmonama012/prime-bytes-executive-dashboard) Executive KPI sales and profit dashboard with Excel models and SQL queries.
+-  [**picknread-platform-analytics**](https://github.com/kevinmonama012/picknread-platform-analytics) Digital reading platform unit economics, MySQL schema, and Power BI dashboards.
+-  [**gedion-freight-intelligence**](https://github.com/kevinmonama012/gedion-freight-intelligence) Freight logistics intelligence platform with Python ETL, SQLite, and DAX.
+-  [**kitchen-profit-sa**](https://github.com/kevinmonama012/kitchen-profit-sa) Commercial food service recipe costing and margin calculator.
+-  [**ford-furgasin-marketing-analytics**](https://github.com/kevinmonama012/ford-furgasin-marketing-analytics) Multi-channel marketing campaign engagement analysis with Power BI (.pbix) and Python.
+-  [**mood-flow-marketing-analytics**](https://github.com/kevinmonama012/mood-flow-marketing-analytics) Customer sentiment marketing performance analytics with Power BI models.
 
 #### SQL & Quantitative References
--  [**sql-formulas-analytics-reference**](https://github.com/kevinmonama012/sql-formulas-analytics-reference) â€” Core aggregations, window functions, and CASE WHEN logic.
--  [**data-cleaning-python-dax**](https://github.com/kevinmonama012/data-cleaning-python-dax) â€” Comprehensive data cleaning scripts in Pandas and DAX.
--  [**sql-subqueries-vs-ctes**](https://github.com/kevinmonama012/sql-subqueries-vs-ctes) â€” Practical benchmarks and syntax comparison for subqueries vs CTEs.
--  [**quantitative-techniques-finance**](https://github.com/kevinmonama012/quantitative-techniques-finance) â€” Quantitative financial scripts: distributions, normality checks, and A/B testing.
+-  [**sql-formulas-analytics-reference**](https://github.com/kevinmonama012/sql-formulas-analytics-reference) Core aggregations, window functions, and CASE WHEN logic.
+-  [**data-cleaning-python-dax**](https://github.com/kevinmonama012/data-cleaning-python-dax) Comprehensive data cleaning scripts in Pandas and DAX.
+-  [**sql-subqueries-vs-ctes**](https://github.com/kevinmonama012/sql-subqueries-vs-ctes) Practical benchmarks and syntax comparison for subqueries vs CTEs.
+-  [**quantitative-techniques-finance**](https://github.com/kevinmonama012/quantitative-techniques-finance) Quantitative financial scripts: distributions, normality checks, and A/B testing.
 
 ---
 
