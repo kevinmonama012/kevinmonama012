@@ -44,7 +44,7 @@ I am a **full stack data analyst and algorithmic trading developer** working acr
 #### Applied Econometrics & Macroeconomic Analyses
 -  [**loadshedding-economic-growth-sa**](https://github.com/kevinmonama012/loadshedding-economic-growth-sa) Econometric study evaluating Eskom load-shedding stages on South African GDP growth.
 -  [**sa-fuel-price-vs-usdzar-regression**](https://github.com/kevinmonama012/sa-fuel-price-vs-usdzar-regression) Econometric regression modeling the relationship between SA fuel prices and the USD/ZAR rate.
--  [**south-africa-cpi-price-index-analysis**](https://github.com/kevinmonama012/south-africa-cpi-price-index-analysis) Time series CPI and inflation index modeling (2015â€“2024).
+-  [**south-africa-cpi-price-index-analysis**](https://github.com/kevinmonama012/south-africa-cpi-price-index-analysis) Time series CPI and inflation index modeling (2015-2024).
 -  [**sa-real-gdp-deflating-analysis**](https://github.com/kevinmonama012/sa-real-gdp-deflating-analysis) Deflating nominal GDP with CPI series to evaluate real South African economic growth.
 -  [**one-way-anova-sa-car-sales**](https://github.com/kevinmonama012/one-way-anova-sa-car-sales) One-Way ANOVA hypothesis testing in SQL and Excel on 2024 SA vehicle sales.
 -  [**probability-concepts-sa-elections-2024**](https://github.com/kevinmonama012/probability-concepts-sa-elections-2024) Applied business probability and cross-tabulation modeling on official 2024 SA election data.
