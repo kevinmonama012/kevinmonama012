@@ -4,7 +4,7 @@
 ### Full Stack Data Analyst & Quantitative Developer
 **Turning complex economic, financial, and operational data into clear, high-impact decisions.**
 
-[![Website](https://img.shields.io/badge/Live_Portfolio-analystkevin.github.io-gold?style=for-the-badge&logo=googlechrome&logoColor=black)](https://analystkevin.github.io)
+[![Website](https://img.shields.io/badge/Live_Portfolio-analystkevin.github.io-gold?style=for-the-badge&logo=googlechrome&logoColor=black)]([https://analystkevin.github.io](https://kevinmonama012.github.io/analystkevin.github.io/))
 [![Email](https://img.shields.io/badge/Email-kevinmonama012%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinmonama012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kevinmonama012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinmonama012)
 
