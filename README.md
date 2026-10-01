@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 # Hi there, I'm Katlego Kevin Monama 
-### Full Stack Data Analyst & Quantitative Developer
+### BI Analyst & Quantitative Developer
 **Turning complex economic, financial, and operational data into clear, high-impact decisions.**
 
 [![Website](https://img.shields.io/badge/Live_Portfolio-analystkevin.github.io-gold?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kevinmonama012.github.io/analystkevin.github.io/)
